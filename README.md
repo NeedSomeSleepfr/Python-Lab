@@ -5,6 +5,6 @@
 ```
 name=input (" ваше имя:" )
 Year= int(input( "ваш возраст: "))
-print(f" Привет {name}!,  через год у тебя будет {Year+1}")
+print(f" Привет {name}!,  через год тебе будет {Year+1}")
 ```
-<![alt text](Безымянный.jpg)>
+![alt text](Безымянный.jpg)
