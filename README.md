@@ -8,3 +8,4 @@ Year= int(input( "ваш возраст: "))
 print(f" Привет {name}!,  через год у тебя будет {Year+1}")
 ```
 <![alt text](Безымянный.jpg)>
+bbbb
