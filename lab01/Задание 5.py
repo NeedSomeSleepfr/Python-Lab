@@ -6,4 +6,4 @@ for i in range(len(Name)):
 lage= len (Name.replace(" ",""))
 print (f"ФИО:{Name}")
 print (f"Инициалы: {inic}")
-print (f" Длина: {lage}")
+print (f"Длина: {lage}")
